@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Traza
+comment1.params=
+comment1.target=Traza()
+comment2.params=
+comment2.target=long\ tiempoTranscurrido()
+comment3.params=mensaje
+comment3.target=void\ registrar(java.lang.String)
+comment4.params=
+comment4.target=void\ terminar()
+numComments=5

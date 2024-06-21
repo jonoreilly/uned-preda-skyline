@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Skyline
+comment1.params=coordenada
+comment1.target=void\ addCoordenada(Coordenada)
+comment2.params=
+comment2.target=java.util.Iterator\ getIterator()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

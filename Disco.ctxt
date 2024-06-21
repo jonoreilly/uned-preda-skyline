@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Disco
+comment1.params=fichero
+comment1.target=java.util.List\ leerEdificios(java.lang.String)
+comment2.params=skyline\ fichero
+comment2.target=void\ guardarSkyline(Skyline,\ java.lang.String)
+numComments=3

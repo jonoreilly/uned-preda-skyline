@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Edificio
+comment1.params=inicio\ fin\ altura
+comment1.target=Edificio(int,\ int,\ int)
+numComments=2

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Conversor
+comment1.params=linea
+comment1.target=Edificio\ deLineaDelFicheroDeEntradaAEdificio(java.lang.String)
+comment2.params=coordenada
+comment2.target=java.lang.String\ deCoordenadaALineaDeFicheroDeSalida(Coordenada)
+comment3.params=coordenada
+comment3.target=java.lang.String\ deCoordenadaAJson(Coordenada)
+comment4.params=skyline
+comment4.target=java.lang.String\ deSkylineAFicheroDeSalida(Skyline)
+comment5.params=skyline
+comment5.target=java.lang.String\ deSkylineAJson(Skyline)
+comment6.params=skyline\ x
+comment6.target=int\ alturaDeSkylineEn(Skyline,\ int)
+comment7.params=skyline
+comment7.target=java.lang.String\ deSkylineAGrafica(Skyline)
+numComments=8

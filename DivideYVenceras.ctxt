@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DivideYVenceras
+comment1.params=edificios\ parametros\ traza
+comment1.target=Skyline\ producirSkylineConDyD(java.util.List,\ Parametros,\ Traza)
+comment2.params=skyline1\ skyline2\ parametros\ traza
+comment2.target=Skyline\ combinarSkylines(Skyline,\ Skyline,\ Parametros,\ Traza)
+comment3.params=a\ b
+comment3.target=Coordenada\ masAltaOReciente(Coordenada,\ Coordenada)
+numComments=4
